@@ -1,1 +1,2 @@
 # Phishing-Simulation
+In this simulation, I took on the role of a L1 SOC Analyst handling real security alerts. My job was to read the alert and decide if it was a true positive or a false positive. After that I needed to write a report that contained the Time of Activity, List of Affected Entities, My reason for classifying as a True Positive, My reason for escalation, my recommendation for mitigation, and List of Attack Indicators.  
